@@ -1,0 +1,73 @@
+
+p{
+	color:green;
+}
+
+.moon{
+	color:red;
+	text-align:Center;
+
+}
+
+.star{
+
+	text-transform: uppercase; 
+}
+
+#chic{
+	font-family:cursive;
+	color:magenta;	
+	text-align:right;
+
+}
+
+a[href*='Ahmedabad']
+{
+color:cyan;
+
+}
+
+
+a[href*='collegedunia']
+{
+	color:purple;
+}
+ 
+.raju{
+font-family:cursive;
+}
+
+a:hover{
+    color:orange;
+}
+
+h2{
+	background-color:yellow;
+
+}
+
+h1.moon{
+font-family:tahoma;
+
+}
+
+.college{
+color:#00008B;
+
+}
+
+h4,h5{
+
+font-family:Magneta;
+font-size:20px;
+font-weight:bold;
+}
+
+#school{
+color:maroon;
+}
+
+
+
+
+
